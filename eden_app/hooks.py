@@ -14,6 +14,10 @@ app_license = "MIT"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/eden_app/css/eden_app.css"
+
+# web_include_css = "/eden_app/public/css/navbar.css"
+# app_include_css = "/assets/eden_app/css/navbar.css"
+web_include_css = "/css/navbar.css"
 # web_include_js = "/assets/eden_app/js/eden_app.js"
 
 # include custom scss in every website theme (without file extension ".scss")
